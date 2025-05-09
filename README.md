@@ -1,4 +1,6 @@
-# 🛰 Cosmos Validator Monitor Bot
+# 🛰 Cosmos Validator Monitoring Bot
+<img src=https://raw.githubusercontent.com/htwtech/cosmos-monitoring-telegram-bot/refs/heads/main/pics/image1.png style="width:400px">
+
 **[HTW_Validators_Bot](https://t.me/HTW_Validators_Bot)** 
 
 A Telegram bot for monitoring **Cosmos validators** across multiple **mainnets and testnets**.  
@@ -9,6 +11,8 @@ Get real-time alerts for:
 - 📦 Missed blocks  
 - 📝 Metadata changes  
 
+
+<img src=https://raw.githubusercontent.com/htwtech/cosmos-monitoring-telegram-bot/refs/heads/main/pics/image4.png style="width:400px">
 ## 🔧 Commands
 
 - `/subscribe` — Add validator  
@@ -20,8 +24,9 @@ Get real-time alerts for:
 Supports many **Cosmos SDK-based chains**.  
 Perfect for node operators, delegators, and validators.
 
-Current supperted chains:
+<img src=https://raw.githubusercontent.com/htwtech/cosmos-monitoring-telegram-bot/refs/heads/main/pics/image3.png style="width:400px">
 
+Current supported chains:
 * Agoric (mainnet, testnet)  
 * Akash (mainnet)  
 * Allora (testnet)  
