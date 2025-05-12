@@ -13,6 +13,7 @@ Get real-time alerts for:
 
 
 <img src=https://raw.githubusercontent.com/htwtech/cosmos-monitoring-telegram-bot/refs/heads/main/pics/image4.png style="width:400px">
+<img src=https://raw.githubusercontent.com/htwtech/cosmos-monitoring-telegram-bot/refs/heads/main/pics/image5.png style="width:400px">
 ## 🔧 Commands
 
 - `/subscribe` — Add validator  
